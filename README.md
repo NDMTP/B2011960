@@ -5,8 +5,8 @@ Dự án quản lý hệ thống bán vé xe khách dựa trên ý tưởng củ
 
 ## Thông tin cá nhân
 ```bash
-Họ tên: Lương Lưu Minh Tân
-Mã sinh viên: B2011990
+Họ tên: Trần Ngọc Duy
+Mã sinh viên: B2011960
 Lớp: Hệ Thống Thông Tin
 Mã lớp: DI2095A1
 Trường: Công Nghệ Thông Tin & Truyền Thông
